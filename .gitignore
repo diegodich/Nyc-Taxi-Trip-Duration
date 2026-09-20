@@ -1,0 +1,14 @@
+# Data (too large; each member downloads it from Kaggle)
+data/*
+!data/.gitkeep
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets and OS
+.env
+kaggle.json
+.DS_Store
