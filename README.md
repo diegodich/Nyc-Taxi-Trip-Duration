@@ -9,7 +9,7 @@ Descargar `train.csv` y colocarlo en `data/raw/`.
 ## Equipo
 | Integrante | Código | Rol |
 |---|---|---|
-| ... | ... | Rol 3: Mezclas y EM |
+| Diego | ... | Rol 3: Mezclas y EM |
 | ... | ... | Rol 1: Información |
 | ... | ... | Rol 2 + Rol 4 |
 
